@@ -3,15 +3,21 @@
 #include <time.h>
 
 #define MAX 45
+#define MAX2 30
 
 int main(void){
   
   int i;
   srand((unsigned)time(null));
   
-  for( i=0; i<5 ; i++){
+  for( i=0; i<5 ; i++)
     printf("%d  ", 1+(rand()%MAX));
-    }
+    
+    
+  int k;
+  
+  for( k=0; k<5 ; k++){
+    printf("%d  ", 1+(rand()%MAX2));
     
    return 0;
  
