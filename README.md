@@ -7,3 +7,5 @@
 종교: 천주교
 출생지: 안동
 취미: 축구, 농구, 기타
+
+![20180723_102838](https://user-images.githubusercontent.com/58299969/69812251-100ad980-1233-11ea-94cb-a22e459a11d9.jpg)
